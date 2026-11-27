@@ -1,4 +1,6 @@
-내 깃허브다 \n
-2024년 이전 개인 게시물은 다 내렸고 \n
-남은건 AI떡칠 게시물이다 \n
-알아서 잘 봐라
+- 👋 Hi, I’m Winter Lanuarii Lee ( @winterliy ), Executive Producer of Team NAKWON, Powerd by Ested Corp.
+
+<!---
+winterliy/winterliy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
